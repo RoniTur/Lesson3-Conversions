@@ -11,6 +11,18 @@ public class Ex1
 	}
 }
 
+Targil 2:
+public class Ex2 
+{
+	public static void main(String[] args) 
+	{
+		int A=4, B=6;
+		int sum = (A*A) + (B*B);
+		double C = Math.sqrt(sum);
+		System.out.println(C);
+	}
+}
+
 Targil3:
 public class Ex3 
 {
